@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Smart Lock</string>
+
+
+    <string name="slide_1_title">Smart Lock!</string>
+    <string name="slide_1_desc"><b>Greetings.</b>\n\nPlease login first to unlock your door</string>
+
+    <string name="slide_2_title">Smart Lock!</string>
+    <string name="slide_2_desc">If you are not registered please register your self fron our website.</string>
+
+
+
+
+</resources>
